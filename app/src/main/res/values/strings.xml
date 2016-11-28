@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StartMoshi</string>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="standard">standard</string>
+    <string name="singletop">singletop</string>
+    <string name="singletoptitle">singletop Activity</string>
+    <string name="singletask">singletask</string>
+    <string name="singletasktitle">singletask Activity</string>
+    <string name="singleinstance">singleinstance</string>
+    <string name="singleinstancetitle">singleinstance Activity</string>
+</resources>
